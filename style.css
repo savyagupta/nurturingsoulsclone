@@ -1,0 +1,566 @@
+header {
+    height: 10vh;
+    width: 100%;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+    padding-left: 170px;
+    margin-top: 4px;
+}
+
+.nurturing {
+    padding-left: 60px;
+    margin-top: -15px;
+    font-family: 'playfair display', sans-serif;
+    color: #353b48;
+    display: flex;
+    font-size: 30px;
+}
+
+.soul {
+    padding-left: 200px;
+    margin-top: -40px;
+    display: flex;
+    color: #C4E538;
+    font-family: "playfair display", serif;
+    font-size: 30px;
+}
+
+button {
+    color: black;
+    background-color: #FFFFFF;
+    padding: 10px 10px 10px 10px;
+    margin-right: 5px;
+    float: right;
+    border-style: none;
+    margin-top: 30px;
+}
+
+button:hover {
+    background-color: #A3CB38;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.home {
+    background-color: #A3CB38;
+    color: #FFFFFF;
+}
+
+.img1 {
+    width: 100%;
+    height: 370px;
+    margin-top: 20px;
+}
+
+* {
+    margin: 0 0 0 0;
+}
+
+h1 {
+    margin-top: -260px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 50px;
+    font-family: "playfair display", serif;
+    margin-bottom: 20px;
+}
+
+.question {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: "Sintony", sans-serif;
+    margin-left: 400px;
+}
+
+.why {
+    margin-top: 220px;
+    color: #1D2127;
+    font-size: 25px;
+    font-family: "playfair display", serif;
+}
+
+.imgcloud {
+    margin-left: 790px;
+    margin-top: -900px;
+}
+
+.para {
+    width: 720px;
+    font-family: "Sintony", sans-serif;
+    color: #50545F;
+    padding-left: 300px;
+    margin-top: -320px;
+    display: flex;
+    font-size: 14px;
+    text-align: center;
+}
+
+.clouds {
+    display: inline-block;
+}
+
+.btn {
+    background-color: #A3CB38;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding: 10px 15px 10px 15px;
+    font-family: "Sintony", sans-serif;
+    margin-top: 80px;
+    margin-right: 570px;
+}
+
+.btn:hover {
+    color: black;
+    background-color: #FFC312;
+    cursor: pointer;
+}
+
+.section1 {
+    height: 330px;
+    width: 100%;
+    color: #5E5E5E;
+    background-color: #d1ccc0;
+    margin-top: -20px;
+}
+
+.about {
+    color: black;
+    font-size: 30px;
+    margin-top: 300px;
+    margin-left: 70px;
+    display: flex;
+    padding-top: 60px;
+}
+
+.water {
+    margin-top: -80px;
+}
+
+.cp {
+    width: 920px;
+    margin-left: 70px;
+    color: #2E353E;
+    font-size: 14px;
+    font-family: "Sintony", sans-serif;
+    display: flex;
+}
+
+.learn {
+    background-color: #A3CB38;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding: 10px 15px 10px 15px;
+    font-family: "Sintony", sans-serif;
+    margin-right: 100px;
+    margin-top: -80px;
+}
+
+.learn:hover {
+    color: black;
+    background-color: #FFC312;
+    cursor: pointer;
+}
+
+.section2 {
+    height: 430px;
+    width: 100%;
+}
+
+.imgcp {
+    width: 370px;
+    height: 280px;
+    margin-left: 60px;
+    margin-top: 80px;
+}
+
+.help {
+    color: #2E353E;
+    font-size: 25px;
+    font-family: "Playfair display", serif;
+    margin-top: -280px;
+    margin-left: 100px;
+}
+
+.middle {
+    text-align: center;
+    margin-left: 440px;
+    font-size: 20px;
+    font-family: "Sintony", sans-serif;
+    color: #2E353E;
+    margin-top: 20px;
+}
+
+.virat {
+    font-size: 15px;
+    margin-left: 590px;
+    font-family: "Sintony", sans-serif;
+    margin-top: -20px;
+}
+
+.virat:hover {
+    cursor: pointer;
+    color: #A3CB38;
+}
+
+.rohit {
+    font-size: 15px;
+    margin-left: 590px;
+    font-family: "Sintony", sans-serif;
+    margin-top: -20px;
+}
+
+.rohit:hover {
+    cursor: pointer;
+    color: #A3CB38;
+}
+
+.dhoni {
+    font-size: 15px;
+    margin-left: 590px;
+    font-family: "Sintony", sans-serif;
+    margin-top: -20px;
+}
+
+.dhoni:hover {
+    cursor: pointer;
+    color: #A3CB38;
+}
+
+.more {
+    background-color: #A3CB38;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding: 10px 15px 10px 15px;
+    font-family: "Sintony", sans-serif;
+    margin-right: 590px;
+    margin-top: 30px;
+}
+
+.more:hover {
+    color: black;
+    background-color: #FFC312;
+    cursor: pointer;
+}
+
+.faq {
+    background-color: #A3CB38;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding: 10px 15px 10px 15px;
+    font-family: "Sintony", sans-serif;
+    margin-right: -195px;
+    margin-top: 30px;
+}
+
+.faq:hover {
+    color: black;
+    background-color: #FFC312;
+    cursor: pointer;
+}
+
+.section3 {
+    height: 220px;
+    width: 100%;
+    background-color: #d1ccc0;
+}
+
+.feedback {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 30px;
+    color: #1D2127;
+    font-family: "Playfair display", serif;
+    padding-top: 40px;
+    margin-left: 420px;
+    margin-right: 420px;
+}
+
+.coma {
+    height: 50px;
+    width: 50px;
+    margin-left: 600px;
+}
+
+.comment {
+    text-align: center;
+    padding-top: 20px;
+    color: #777777;
+}
+
+.tick {
+    height: 10px;
+    width: 10px;
+    margin-left: 570px;
+    margin-top: -40px;
+}
+
+.tick1 {
+    height: 10px;
+    width: 10px;
+    margin-left: 570px;
+    margin-top: 20px;
+}
+
+.tick2 {
+    height: 10px;
+    width: 10px;
+    margin-left: 570px;
+    margin-top: 20px;
+}
+
+.section4 {
+    height: 130vh;
+    width: 100%;
+}
+
+.resources {
+    color: #1D2127;
+    margin-top: -300px;
+    font-family: "Playfair display", serif;
+    font-size: 25px;
+    margin-left: -1020px;
+    margin-top: -830px;
+}
+
+.nikhil {
+    transition: transform .1s;
+    margin-left: 65px;
+    margin-top: 380px;
+}
+
+.nikhil:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.rashmi {
+    height: 250px;
+    width: 350px;
+    transition: transform .1s;
+    margin-left: 450px;
+    margin-top: -560px;
+}
+
+.rashmi:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.pic {
+    height: 250px;
+    width: 350px;
+    transition: transform .1s;
+    margin-left: 840px;
+    margin-top: -560px;
+}
+
+.pic:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.container {
+    height: 320px;
+    width: 330px;
+    background-color: #f5f6fa;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+
+.card {
+    color: #2E353E;
+    font-family: "Playfair display", serif;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 30px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.mind {
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 30px;
+    text-align: center;
+    font-family: "Sintony", sans-serif;
+    font-size: 13px;
+    color: #50545F;
+}
+
+.date {
+    font-size: 11px;
+    font-family: "Sintony", sans-serif;
+    color: #5E5E5E;
+    padding-top: 30px;
+    padding-left: 60px;
+}
+
+.parent {
+    font-size: 11px;
+    font-family: "Sintony", sans-serif;
+    color: #5E5E5E;
+    margin-top: -13px;
+    padding-left: 170px;
+}
+
+.container1 {
+    height: 320px;
+    width: 330px;
+    background-color: #f5f6fa;
+    margin-left: 460px;
+    margin-top: -10px;
+}
+
+.card2 {
+    color: #2E353E;
+    font-family: "Playfair display", serif;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 30px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.vid {
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 30px;
+    text-align: center;
+    font-family: "Sintony", sans-serif;
+    font-size: 13px;
+    color: #50545F;
+}
+
+.container2 {
+    height: 320px;
+    width: 330px;
+    background-color: #f5f6fa;
+    margin-left: 850px;
+    margin-top: -10px;
+}
+
+.card3 {
+    color: #2E353E;
+    font-family: "Playfair display", serif;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 30px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.savya {
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 30px;
+    text-align: center;
+    font-family: "Sintony", sans-serif;
+    font-size: 13px;
+    color: #50545F;
+}
+
+.view {
+    background-color: #A3CB38;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding: 10px 15px 10px 15px;
+    font-family: "Sintony", sans-serif;
+    margin-right: 590px;
+    margin-top: -120px;
+    display: flex;
+}
+
+.view:hover {
+    color: black;
+    background-color: #FFC312;
+    cursor: pointer;
+}
+
+.contacts {
+    background-color: #3d3d3d;
+    height: 100vh;
+    width: 100%;
+}
+
+.nurturing1 {
+    padding-left: 490px;
+    margin-top: -15px;
+    font-family: "playfair display", sans-serif;
+    color: #FFFFFF;
+    display: flex;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.soul1 {
+    padding-left: 630px;
+    margin-top: -40px;
+    display: flex;
+    color: #C4E538;
+    font-family: "playfair display", sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.img5 {
+    height: 50px;
+    width: 50px;
+    padding-left: 600px;
+    margin-top: 70px;
+}
+
+.img5:hover {
+    cursor: pointer;
+}
+
+.location {
+    height: 50px;
+    width: 50px;
+    padding-left: 300px;
+    padding-top: 40px;
+}
+
+.end {
+    color: #FFFFFF;
+    padding-left: 300px;
+}
+
+.location1 {
+    height: 50px;
+    width: 50px;
+    padding-left: 120px;
+    padding-top: -30px;
+}
+
+.end1 {
+    color: #FFFFFF;
+    padding-left: 570px;
+}
+
+.end2 {
+    color: #FFFFFF;
+    padding-left: 890px;
+}
+
+.location2 {
+    height: 50px;
+    width: 50px;
+    padding-left: 150px;
+    padding-top: -30px;
+}
+
+.copy {
+    color: #FFFFFF;
+    margin-top: -60px;
+    text-align: center;
+}
+
+.exp {
+    height: 200px;
+    width: 320px;
+}
