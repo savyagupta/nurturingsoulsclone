@@ -331,6 +331,8 @@ h1 {
     transition: transform .1s;
     margin-left: 65px;
     margin-top: 380px;
+     height: 250px;
+    width: 350px;
 }
 
 .nikhil:hover {
